@@ -1,65 +1,220 @@
 <h1 align="center">
   <br>
-  <img src="YOUR_GIF_OR_BANNER.gif" alt="Javad Saber" width="700">
+  <img src="YOUR_BANNER.gif" alt="Javad Saber" width="700">
   <br>
 </h1>
 
 <p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Building+Scalable+Systems;Distributed+Systems+Enthusiast">
+
+</p>
+
+
+<p align="center">
+
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/mhmdjvdsbrn">
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
 
 
-<!--
-**mhmdjvdsbrn/mhmdjvdsbrn** is a ✨ special ✨ repository because this README.md appears on your GitHub profile.
--->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Building+Distributed+Systems;Creator+of+Finance+OS">
-
-
 # 👋 Hi, I'm Javad
 
-Welcome to my GitHub profile.
+I am a **Software Engineer** focused on designing and building scalable backend systems, distributed architectures, and business-oriented software solutions.
 
-I am a **Software Engineer** focused on designing and building scalable backend systems, distributed architectures and real-world business solutions.
+I enjoy solving complex engineering problems and transforming ideas into reliable, maintainable software.
 
-I enjoy transforming complex requirements into reliable software products.
+My experience spans across different business domains:
 
-My main areas of interest:
-
-- Backend Engineering
-- Microservice Architecture
-- Distributed Systems
-- Financial Platforms
-- Insurance Technology
-- IoT Systems
-- Business Automation
+- 💰 Finance & Financial Platforms
+- 🏦 Insurance Technology
+- 🌐 IoT & Connected Systems
+- ⚙️ Business Automation Platforms
 
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Domain Experience
 
 
-## 💰 Finance OS
+## 💰 Finance
 
-A modular platform designed for financial and business workflows.
+Experience building software solutions around:
 
-Finance OS focuses on:
-
-- Multi-tenant architecture
-- Authentication and authorization
-- Backend service design
-- Reward & incentive systems
-- Business rule automation
-- Scalable microservices
+- Financial workflows
+- Business platforms
+- User and access management
+- Reward and incentive systems
+- Scalable backend services
 
 
-Architecture:
+## 🏦 Insurance
+
+Working with insurance-oriented systems:
+
+- Business process automation
+- Customer-centric platforms
+- Backend services
+- Data-driven applications
+
+
+## 🌐 IoT
+
+Building systems for connected devices:
+
+- Device communication
+- Data collection pipelines
+- Real-time data processing
+- Backend infrastructure
+
+
+---
+
+# 🧠 Engineering Interests
+
+
+- Distributed Systems
+- Microservice Architecture
+- Backend Architecture
+- Event Driven Systems
+- API Design
+- Scalable Software Design
+- Clean Architecture
+
+
+---
+
+# 🛠️ Technology Stack
+
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,django,fastapi&theme=dark">
+
+</p>
+
+
+Working with:
+
+- Go
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- REST APIs
+- gRPC
+- Protocol Buffers
+- JWT Authentication
+
+
+---
+
+## Databases
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark">
+
+</p>
+
+
+Experience with:
+
+- SQL Databases
+- PostgreSQL
+- NoSQL Databases
+- MongoDB
+- Redis
+
+
+---
+
+## Messaging & Event Systems
+
+
+Working with:
+
+- RabbitMQ
+- NATS
+- EMQX
+- MQTT
+- Event-driven architectures
+
+
+---
+
+## Infrastructure & DevOps
+
+
+<p align="center">
+
+<img src="https://skillics.dev/icons?i=docker,linux,git,github&theme=dark">
+
+</p>
+
+
+Experience with:
+
+- Docker
+- Docker Compose
+- Linux environments
+- Containerized applications
+- CI/CD workflows
+
+
+---
+
+## Automation & Data Tools
+
+
+Experience with:
+
+- Celery
+- Scrapy
+- Selenium
+- Playwright
+
+
+---
+
+# 📌 Currently Focused On
+
+
+- Building scalable backend systems
+- Improving distributed architecture skills
+- Designing reliable software solutions
+- Exploring cloud-native technologies
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdjvdsbrn&show_icons=true&theme=tokyonight&hide_border=true">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdjvdsbrn&theme=tokyonight&hide_border=true">
+
+</p>
+
+
+---
+
+<div align="center">
+
+⭐ Building software systems that solve real-world problems.
+
+</div>
