@@ -28,7 +28,7 @@ I am a **Software Engineer** focused on designing and building scalable backend 
 I enjoy solving complex engineering problems and transforming ideas into reliable, maintainable software.
 
 
----# 💼 Domain Experience
+---# 💼 Experience
 
 ## 💰 Finance
 
