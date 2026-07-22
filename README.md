@@ -27,13 +27,6 @@ I am a **Software Engineer** focused on designing and building scalable backend 
 
 I enjoy solving complex engineering problems and transforming ideas into reliable, maintainable software.
 
-My experience spans across different business domains:
-
-- 💰 Finance & Financial Platforms
-- 🏦 Insurance Technology
-- 🌐 IoT & Connected Systems
-- ⚙️ Business Automation Platforms
-
 
 ---# 💼 Domain Experience
 
