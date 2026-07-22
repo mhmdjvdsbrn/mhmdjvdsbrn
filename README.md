@@ -35,42 +35,39 @@ My experience spans across different business domains:
 - ⚙️ Business Automation Platforms
 
 
----
-
-# 💼 Domain Experience
-
+---# 💼 Domain Experience
 
 ## 💰 Finance
 
-Experience building software solutions around:
+Experience building financial and business platforms with focus on:
 
-- Financial workflows
-- Business platforms
-- User and access management
-- Reward and incentive systems
+- Multi-tenant architectures
+- B2B platforms
+- Business workflow automation
+- Reward & incentive systems
 - Scalable backend services
 
 
 ## 🏦 Insurance
 
-Working with insurance-oriented systems:
+Experience developing B2B insurance platforms including:
 
-- Business process automation
+- Multi-tenant insurance systems
+- Policy issuance workflows
 - Customer-centric platforms
-- Backend services
+- Business process automation
 - Data-driven applications
 
 
 ## 🌐 IoT
 
-Building systems for connected devices:
+Experience building scalable IoT platforms and backend services for:
 
-- Device communication
-- Data collection pipelines
+- B2B IoT solutions
+- Third-party IoT integrations
+- Device data management
 - Real-time data processing
-- Backend infrastructure
-
-
+- High-scale systems
 ---
 
 # 🧠 Engineering Interests
