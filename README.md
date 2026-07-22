@@ -1,45 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Javad%20Saberian&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<h1 align="center">
+  <br>
+  <img src="YOUR_GIF_OR_BANNER.gif" alt="Javad Saber" width="700">
+  <br>
+</h1>
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Building+Scalable+Systems;Creator+of+Finance+OS"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
 
-</div>
+<a href="https://github.com/mhmdjvdsbrn">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height=25>
+</a>
 
----
+</p>
+
+
+<!--
+**mhmdjvdsbrn/mhmdjvdsbrn** is a ✨ special ✨ repository because this README.md appears on your GitHub profile.
+-->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Building+Distributed+Systems;Creator+of+Finance+OS">
+
 
 # 👋 Hi, I'm Javad
 
-## Software Engineer
+Welcome to my GitHub profile.
 
-I build scalable backend systems and business platforms with a focus on clean architecture, distributed systems, and real-world solutions.
+I am a **Software Engineer** focused on designing and building scalable backend systems, distributed architectures and real-world business solutions.
 
-My interests are around:
+I enjoy transforming complex requirements into reliable software products.
 
-- Backend engineering
-- Microservice architectures
-- Financial platforms
-- Insurance technology
-- IoT systems
-- Business automation
+My main areas of interest:
 
-I enjoy transforming complex business requirements into reliable and maintainable software.
+- Backend Engineering
+- Microservice Architecture
+- Distributed Systems
+- Financial Platforms
+- Insurance Technology
+- IoT Systems
+- Business Automation
+
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
+
 
 ## 💰 Finance OS
 
 A modular platform designed for financial and business workflows.
 
-Finance OS focuses on building scalable services for:
+Finance OS focuses on:
 
-- Multi-tenant platforms
-- User management
-- Authentication & authorization
-- Reward and incentive systems
-- Business rules automation
+- Multi-tenant architecture
+- Authentication and authorization
+- Backend service design
+- Reward & incentive systems
+- Business rule automation
+- Scalable microservices
 
 
 Architecture:
