@@ -107,12 +107,9 @@ Working with:
 - Go
 - Python
 - Django
-- Django REST Framework
 - FastAPI
 - REST APIs
 - gRPC
-- Protocol Buffers
-- JWT Authentication
 
 
 ---
@@ -145,8 +142,7 @@ Working with:
 
 - RabbitMQ
 - NATS
-- EMQX
-- MQTT
+- EMQX(MQTT)
 - Event-driven architectures
 
 
@@ -164,9 +160,9 @@ Working with:
 
 Experience with:
 
+- Linux
 - Docker
 - Docker Compose
-- Linux environments
 - Containerized applications
 - CI/CD workflows
 
@@ -194,6 +190,29 @@ Experience with:
 - Designing reliable software solutions
 - Exploring cloud-native technologies
 
+---
+
+## 🎨 Frontend Knowledge
+
+I have experience building and understanding modern web interfaces.
+
+Familiar with:
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark">
+
+</p>
+
+
+Working knowledge of:
+
+- HTML5 & CSS3
+- JavaScript fundamentals
+- React concepts
+- Component-based UI development
+- Frontend integration with backend APIs
+- Building and improving interfaces with AI-assisted development tools
 
 ---
 
